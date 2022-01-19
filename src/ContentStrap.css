@@ -1,0 +1,47 @@
+#gallery {
+    color:222; 
+    font-size: 1px;
+    margin: 75px;
+    border: tan 5px solid;
+
+    
+    
+}
+.card-text,
+.card-tilte{ font-size : 12px;}
+.card-image-top {max-width:  300px;}
+.card-body{
+    color: steelblue;
+    text-align:left;
+    font-size: large;
+    border:plum 3px dotted;
+
+    
+}
+.card-img, .card-img-top {height: 300px;}
+
+
+
+
+
+
+
+image{ 
+    width : 200px;
+    height : 100px;
+}
+
+
+.oneCard {
+    width : 300px;
+    height : 300px;
+  
+    
+  
+}
+
+.oneBtn{
+    height: 30px; ;
+
+}
+
